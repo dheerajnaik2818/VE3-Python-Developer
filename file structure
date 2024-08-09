@@ -1,0 +1,12 @@
+house_price_prediction/
+│
+├── app.py
+├── model.py
+├── static/
+│   └── style.css
+├── templates/
+│   ├── index.html
+│   └── result.html
+├── dataset/
+│   └── housing_data.csv
+└── requirements.txt
